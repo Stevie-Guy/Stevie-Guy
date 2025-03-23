@@ -1,3 +1,5 @@
+<img src = "https://github.com/user-attachments/assets/0a70351a-4c1e-478e-bc0b-c35e7a33a5fb"> 
+
 # ☀ Who is Stevie-Guy?
 <div align="left">
     <p>
@@ -41,11 +43,10 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-    
+<div align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false"> <br/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
+    <img src = "https://github.com/user-attachments/assets/c4bb030a-5411-4af1-a81a-3f166e2e7a82"> 
 </div>
 
 
@@ -91,9 +92,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div> 
 ![GitHub_Cover_Jos](https://github.com/user-attachments/assets/7afd8304-dee4-460d-b11c-5a6dab5f1afb)
-
+![](https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub_Cover_Jos (1280 x 300 px) (1)](https://github.com/user-attachments/assets/c4bb030a-5411-4af1-a81a-3f166e2e7a82)
 -->
-
-<div float = "left">
-    <img src = "https://github.com/user-attachments/assets/7afd8304-dee4-460d-b11c-5a6dab5f1afb" position = "absolute"> 
-</div>
