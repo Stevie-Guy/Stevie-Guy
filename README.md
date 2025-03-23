@@ -3,15 +3,10 @@
 # ☀ Who is Stevie-Guy?
 <div align="left">
     <p>
-        🔭 I’m currently working on my Bachelor's Degree. <br>
-        🌱 I’m currently learning Java, C#. <br>
-        💬 Ask me about anything. <br>
+        🎯 I’m currently working on my Bachelor's Degree. <br>
+        📚 I’m currently learning Java, C#. <br>
         ⚡ Fun fact: I like reading books and watching horror movies. <br>
-        ✨ Creating bugs since ... <br>
-        📚 I'm currently learning ... <br>
-        🎯 Goals: ... <br>
-        📄 Know about my experiences ... <br>
-        🎲 Fun fact: ...
+        📄 Take a look at my <a href = "https://github.com/user-attachments/files/19411893/Resume.-.English.pdf">resume</a>.
     </p>
     <div>
         <a href="https://www.linkedin.com/in/filimonstefan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
