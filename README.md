@@ -44,7 +44,7 @@
 
 # 📊 GitHub Stats:
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false"> <br/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&show_icons=false"> <br/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
     <img src = "https://github.com/user-attachments/assets/c4bb030a-5411-4af1-a81a-3f166e2e7a82"> 
 </div>
