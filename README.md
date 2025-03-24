@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/0a70351a-4c1e-478e-bc0b-c35e7a33a5fb"> 
+<img src = "https://github.com/user-attachments/assets/bc46c5e3-6655-4365-914a-72e0f78a6d49"> 
 
 # ☀ Who is Stevie-Guy?
 <div align="left">
@@ -39,8 +39,8 @@
 
 # 📊 GitHub Stats:
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=false"> <br/>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=Stevie-Guy&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=false"> <br/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Stevie-Guy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
     <img src = "https://github.com/user-attachments/assets/c4bb030a-5411-4af1-a81a-3f166e2e7a82"> 
 </div>
 
