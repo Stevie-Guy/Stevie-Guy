@@ -2,7 +2,7 @@
 
 # ☀ Who is Stevie-Guy?
 
-`Developer/Technology Enthusiast`
+**`Developer/Technology Enthusiast`**
 
 <div align="left">
     <p>
