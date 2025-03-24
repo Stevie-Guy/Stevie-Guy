@@ -9,8 +9,8 @@
         📄 Take a look at my <a href = "https://github.com/user-attachments/files/19411893/Resume.-.English.pdf">resume</a>.
     </p>
     <div>
-        <a href="https://www.linkedin.com/in/filimonstefan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-        <a href="mailto:filimonstefan23@stud.ase.ro"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+        <a href="https://www.linkedin.com/in/filimonstefan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
+        <a href="mailto:filimonstefan23@stud.ase.ro"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/></a>
     </div>
 </div>
 
@@ -45,8 +45,8 @@
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--<h1 align="center">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stefan+Filimon!;" />
 </h1>
 
