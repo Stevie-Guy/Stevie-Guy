@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo" /></a>
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="5" />
   <a href="https://devdocs.io/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" alt="cplusplus logo" /></a>  
   <img width="5" />
